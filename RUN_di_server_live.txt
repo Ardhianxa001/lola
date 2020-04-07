@@ -1,2 +1,0 @@
-alter table redeem add column ticket int NULL after coin;
-INSERT INTO games (pub_id,name,status,secret,v_ios,ts_ios,v_aos,ts_aos,bid_ios,bid_aos) VALUES (1,'Lola Bakery',1,'143F1698BAC14415FFBB1','1.1.0','2019-03-21 22:27:41','1.1.0','2019-03-21 22:27:41','com.mncgames.play.kikorun','com.mncgames.play.kikorun');
